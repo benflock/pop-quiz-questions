@@ -13,3 +13,5 @@
 ### Where is npm limiting? 
  
 ### How would you set up a back end server outside of npm?
+
+### Does learning about the physical changes happening within the hardware of devices help a lot?
