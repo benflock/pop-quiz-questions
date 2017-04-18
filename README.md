@@ -1,4 +1,4 @@
-I just want to say that even though I bitch about the quizzes, I feel they are great for self-reflection, understanding concepts, and interview preparation.
+I feel the quizzes are great for self-reflection, understanding concepts, and interview preparation.
 
 1. I feel that quizzes are a great way to teach higher order functions.
 
